@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1645548408727,
+    "productos": []
+  },
+  {
+    "id": 2,
+    "timestamp": 1645549176379,
+    "productos": [
+      {
+        "id": 1,
+        "title": "Remera",
+        "description": "Está hecha de algodon",
+        "code": 1,
+        "price": 800,
+        "thumbnail": "https://cdn-icons-png.flaticon.com/512/13/13331.png",
+        "timestamp": 1645831697178,
+        "stock": 9
+      },
+      {
+        "id": 2,
+        "title": "Pantalon",
+        "description": "Pantalon deportivo",
+        "code": 2,
+        "price": 500,
+        "thumbnail": "url de foto de pantalon",
+        "timestamp": 1646865041154,
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "timestamp": 1645833908645,
+    "productos": []
+  },
+  {
+    "id": 4,
+    "timestamp": 1645833910581,
+    "productos": []
+  },
+  {
+    "id": 5,
+    "timestamp": 1645833949448,
+    "productos": []
+  },
+  {
+    "id": 6,
+    "timestamp": 1645833973461,
+    "productos": []
+  },
+  {
+    "id": 7,
+    "timestamp": 1645833996204,
+    "productos": []
+  },
+  {
+    "id": 8,
+    "timestamp": 1645834032864,
+    "productos": []
+  }
+]

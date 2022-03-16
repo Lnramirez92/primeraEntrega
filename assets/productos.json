@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "title": "Remera",
+    "description": "Está hecha de algodon",
+    "code": 1,
+    "price": 800,
+    "thumbnail": "https://cdn-icons-png.flaticon.com/512/13/13331.png"
+    
+  },
+  {
+    "id": 2,
+    "title": "Pantalon",
+    "description": "Pantalon deportivo",
+    "code": 2,
+    "price": 500,
+    "thumbnail": "url de foto de pantalon"
+  }
+]
